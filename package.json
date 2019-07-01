@@ -6,7 +6,7 @@
   "author": "chatdaddy",
   "license": "ISC",
   "dependencies": {
-    "detect-character-encoding": "^0.7.0",
+    "ced": "^0.7.0",
     "iconv": "^2.3.4",
     "iconv-lite": "^0.4.24",
     "stream-buffers": "^3.0.2"
