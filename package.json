@@ -1,6 +1,6 @@
 {
   "name": "any-to-utf8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Any CSV buffer to UTF8",
   "main": "lib/index.js",
   "author": "chatdaddy",
