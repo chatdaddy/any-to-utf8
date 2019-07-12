@@ -9,6 +9,7 @@
     "ced": "^1.0.0",
     "iconv": "^2.3.4",
     "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.14",
     "stream-buffers": "^3.0.2"
   }
 }
